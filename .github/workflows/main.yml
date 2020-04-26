@@ -1,4 +1,4 @@
-ame: Publish
+name: Publish
 
 on:
   push:
@@ -23,15 +23,14 @@ jobs:
 
     - name: Build
       run: hugo -D
-      	
-    - name: Deploy
-  	  uses: SamKirkland/FTP-Deploy-Action@2.0.0
-  	  env:
-		FTP_SERVER: ftp.pratelli1991.it
-		FTP_USERNAME: bbtdbqnt
-		FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
-		LOCAL_DIR: ./public/
-		REMOTE_DIR:  /home/bbtdbqnt/public_html/
-		ARGS: --delete # will delete files on the server if you've deleted them in git
 
+    - name: Deploy
+      uses: SamKirkland/FTP-Deploy-Action@2.0.0
+      env:
+        FTP_SERVER: ftp.pratelli1991.it
+        FTP_USERNAME: bbtdbqnt
+        FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        LOCAL_DIR: ./public/
+        REMOTE_DIR:  /home/bbtdbqnt/public_html/
+        ARGS: --delete # will delete files on the server if you've deleted them in git
 
