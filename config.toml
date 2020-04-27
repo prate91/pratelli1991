@@ -1,5 +1,5 @@
 baseURL = "http://example.org/"
-# [en, zh-cn, fr, ...] determines default content language
+# [en, zh-cn, fr, it, ...] determines default content language
 defaultContentLanguage = "it"
 # language code
 languageCode = "it"
@@ -8,33 +8,61 @@ title = "Nicolò Pratelli"
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
+# whether to use robots.txt
+enableRobotsTXT = false
+# whether to use git commit log
+enableGitInfo = true
+# whether to use emoji code
+enableEmoji = true
+
 [languages]
   [languages.it]
     weight = 1
+    # website title
     title = "Nicolò Pratelli"
+    # language code
     languageCode = "it"
+    # language name
     languageName = "Italiano"
-    [[languages.it.menu.main]]
-      identifier = "posts"
-      pre = ""
-      name = "Articoli"
-      url = "/posts/"
-      title = ""
-      weight = 1
-    [[languages.it.menu.main]]
-      identifier = "tags"
-      pre = ""
-      name = "Etichette"
-      url = "/tags/"
-      title = ""
-      weight = 2
-    [[languages.it.menu.main]]
-      identifier = "categories"
-      name = "Categorie"
-      pre = ""
-      url = "/categories/"
-      title = ""
-      weight = 3
+    # default amount of posts in each pages
+    paginate = 6
+    # [UA-XXXXXXXX-X] google analytics code
+    googleAnalytics = "UA-75296785-6"
+    # copyright description used only for seo schema
+    copyright = "Questo sito è posto sotto la licenza Creative Commons Attribuzione - Non commerciale - Non opere derivate 3.0."
+    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+    # date format
+    dateFormatToUse = "02-01-2006"
+    # Menu Info
+    [languages.it.menu]
+      [[languages.it.menu.main]]
+        identifier = "posts"
+        pre = ""
+        name = "Articoli"
+        url = "/posts/"
+        title = ""
+        weight = 1
+      [[languages.it.menu.main]]
+        identifier = "tags"
+        pre = ""
+        name = "Etichette"
+        url = "/tags/"
+        title = ""
+        weight = 2
+      [[languages.it.menu.main]]
+        identifier = "categories"
+        name = "Categorie"
+        pre = ""
+        url = "/categories/"
+        title = ""
+        weight = 3
+      [[languages.en.menu.main]]
+        identifier = "about"
+        pre = ""
+        name = "Su di me"
+        url = "/about/"
+        title = ""
+        weight = 4
 
   [languages.en]
     weight = 2
