@@ -56,7 +56,7 @@ enableEmoji = true
         url = "/categories/"
         title = ""
         weight = 3
-      [[languages.en.menu.main]]
+      [[languages.it.menu.main]]
         identifier = "about"
         pre = ""
         name = "Su di me"
