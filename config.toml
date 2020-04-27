@@ -30,7 +30,7 @@ enableEmoji = true
     googleAnalytics = "UA-75296785-6"
     # copyright description used only for seo schema
     copyright = "Questo sito è posto sotto la licenza Creative Commons Attribuzione - Non commerciale - Non opere derivate 3.0."
-    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+    # copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # date format
     dateFormatToUse = "02-01-2006"
     # Menu Info
