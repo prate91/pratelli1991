@@ -80,7 +80,7 @@ enableEmoji = true
             # URL of avatar shown in home page
             avatarURL = "/images/avatar.png"
             # subtitle shown in home page
-            subtitle = "Vi facci entrare nel mio mondo"
+            subtitle = "Vi faccio entrare nel mio mondo"
             # whether to use typeit animation for subtitle
             typeit = true
             # whether to show social links
@@ -196,13 +196,13 @@ enableEmoji = true
             # Disqus shortname to use Disqus in posts
             shortname = "prate91"
           # Gitalk Comment Config (https://github.com/gitalk/gitalk)
-          [languages.en.params.comment.gitalk]
+          [languages.it.params.comment.gitalk]
             owner = ""
             repo = ""
             clientId = ""
             clientSecret = ""
           # Valine Comment Config (https://github.com/xCss/Valine)
-          [languages.en.params.comment.valine]
+          [languages.it.params.comment.valine]
             enable = true
             appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
             appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
@@ -216,7 +216,7 @@ enableEmoji = true
             visitor = true
             recordIP = true
           # Facebook Comment Config (https://developers.facebook.com/docs/plugins/comments)
-          [languages.en.params.comment.facebook]
+          [languages.it.params.comment.facebook]
             enable = false
             width = "100%"
             numPosts = 10
@@ -225,30 +225,209 @@ enableEmoji = true
 
   [languages.en]
     weight = 2
+    # website title
     title = "Nicolò Pratelli"
+    # language code
     languageCode = "en"
+    # language name
     languageName = "English"
-    [[languages.en.menu.main]]
-      identifier = "posts"
-      pre = ""
-      name = "Posts"
-      url = "/posts/"
-      title = ""
-      weight = 1
-    [[languages.en.menu.main]]
-      identifier = "tags"
-      pre = ""
-      name = "Tags"
-      url = "/tags/"
-      title = ""
-      weight = 2
-    [[languages.en.menu.main]]
-      identifier = "categories"
-      pre = ""
-      name = "Categories"
-      url = "/categories/"
-      title = ""
-      weight = 3
+    # default amount of posts in each pages
+    paginate = 6
+    # [UA-XXXXXXXX-X] google analytics code
+    googleAnalytics = "UA-75296785-6"
+    # copyright description used only for seo schema
+    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+    # date format
+    dateFormatToUse = "02-01-2006"
+    # Menu Info
+    [languages.it.menu]
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        pre = ""
+        name = "Posts"
+        url = "/posts/"
+        title = ""
+        weight = 1
+      [[languages.en.menu.main]]
+        identifier = "tags"
+        pre = ""
+        name = "Tags"
+        url = "/tags/"
+        title = ""
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = "categories"
+        pre = ""
+        name = "Categories"
+        url = "/categories/"
+        title = ""
+        weight = 3
+      [[languages.en.menu.main]]
+          identifier = "about"
+          pre = ""
+          name = "About me"
+          url = "/about/"
+          title = ""
+          weight = 4
+        [languages.en.params]
+          # site description
+          description = "Personal website's Nicolò Pratelli"
+          # site keywords
+          keywords = ["Blog", "Prate91"]
+          # site default theme ("light", "dark", "auto")
+          defaultTheme = "auto"
+          # Home Page Info
+          [languages.en.params.home]
+            # Home Page Profile
+            [languages.en.params.home.profile]
+              enable = true
+              # Gravatar Email for preferred avatar in home page
+              gravatarEmail = ""
+              # URL of avatar shown in home page
+              avatarURL = "/images/avatar.png"
+              # subtitle shown in home page
+              subtitle = "Welcome to my world"
+              # whether to use typeit animation for subtitle
+              typeit = true
+              # whether to show social links
+              social = true
+            # Home Page Posts
+            [languages.en.params.home.posts]
+              enable = true
+              # special amount of posts in each home posts page
+              paginate = 6
+              # default behavior when you don't set "hiddenFromHomePage" in front matter
+              defaultHiddenFromHomePage = false
+          # Social Info in home page
+          [languages.en.params.social]
+            GitHub = "prate91"
+            Linkedin = "pratelli-1991"
+            Twitter = "Prate91"
+            Instagram = "prate91"
+            Email = "pratelli1991@gmail.com"
+            Facebook = "nicolo.pratelli"
+            Telegram = "prate91"
+            # Medium = "xxxx"
+            # Gitlab = "xxxx"
+            # Youtubelegacy = "xxxx"
+            # Youtubecustom = "xxxx"
+            Youtubechannel = "UC1JYPBV8CpqPpBl1mRv95zA"
+            # Tumblr ="xxxx"
+            # Quora = "xxxx"
+            # Keybase = "xxxx"
+            # Pinterest = "xxxx"
+            # Reddit = "xxxx"
+            # Codepen = "xxxx"
+            # FreeCodeCamp = "xxxx"
+            # Bitbucket = "xxxx"
+            # Stackoverflow = "xxxx"
+            # Weibo = "xxxx"
+            # Odnoklassniki = "xxxx"
+            # VK = "xxxx"
+            # Flickr = "xxxx"
+            # Xing = "xxxx"
+            # Snapchat = "xxxx"
+            # Soundcloud = "xxxx"
+            # Spotify = "xxxx"
+            # Bandcamp = "xxxx"
+            # Paypal = "xxxx"
+            # Fivehundredpx = "xxxx"
+            # Mix = "xxxx"
+            # Goodreads = "xxxx"
+            # Lastfm = "xxxx"
+            # Foursquare = "xxxx"
+            # Hackernews = "xxxx"
+            # Kickstarter = "xxxx"
+            # Patreon = "xxxx"
+            # Steam = "xxxx"
+            # Twitch = "xxxx"
+            # Strava = "xxxx"
+            # Skype = "xxxx"
+            # Whatsapp = "xxxx"
+            # Zhihu = "xxxx"
+            # Douban = "xxxx"
+            # Angellist = "xxxx"
+            # Slidershare = "xxxx"
+            # Jsfiddle = "xxxx"
+            # Deviantart = "xxxx"
+            # Behance = "xxxx"
+            # Dribble = "xxxx"
+            # Wordpress = "xxxx"
+            # Vine = "xxxx"
+            # Googlescholar = "xxxx"
+            # Researchgate = "xxxx"
+            # Mastodon = "xxxx"
+            # MastodonPrefix = "https://mastodon.technology/"
+            # Thingiverse = "xxxx"
+            # Devto = "xxxx"
+            # Gitea = "xxxx"
+            # XMPP = "xxxx"
+            # Matrix = "xxxx"
+            # Bilibili = "xxxx"
+          # Social Share Links in post page
+          [languages.en.params.share]
+            enable = true
+            Twitter = true
+            Facebook = true
+            Linkedin = true
+            Whatsapp = true
+            Pinterest = true
+            # Tumblr = true
+            HackerNews = true
+            # Reddit = true
+            # VK = true
+            # Buffer = true
+            # Xing = true
+            # Line = true
+            # Instapaper = true
+            # Pocket = true
+            # Digg = true
+            # Stumbleupon = true
+            # Flipboard = true
+            # Weibo = true
+            # Renren = true
+            # Myspace = true
+            # Blogger = true
+            # Baidu = true
+            # Odnoklassniki = true
+            # Evernote = true
+            # Skype = true
+            # Trello = true
+            # Mix = true
+          # Comment Config
+          [languages.en.params.comment]
+            enable = true
+            # Disqus Comment Config (https://disqus.com/)
+            [languages.en.params.comment.disqus]
+              # Disqus shortname to use Disqus in posts
+              shortname = "prate91"
+            # Gitalk Comment Config (https://github.com/gitalk/gitalk)
+            [languages.en.params.comment.gitalk]
+              owner = ""
+              repo = ""
+              clientId = ""
+              clientSecret = ""
+            # Valine Comment Config (https://github.com/xCss/Valine)
+            [languages.en.params.comment.valine]
+              enable = true
+              appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
+              appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
+              placeholder = "Your comment ..."
+              notify = false
+              verify = true
+              avatar = "mp"
+              meta= ""
+              pageSize = 10
+              lang = "en"
+              visitor = true
+              recordIP = true
+            # Facebook Comment Config (https://developers.facebook.com/docs/plugins/comments)
+            [languages.en.params.comment.facebook]
+              enable = false
+              width = "100%"
+              numPosts = 10
+              appId = ""
+              languageCode = "en_US"
 
 
 [params]
@@ -274,7 +453,7 @@ enableEmoji = true
   # Footer Copyright Info
   [params.footer]
     # Site creation time
-    since = 2019
+    since = 2020
     # ICP info only in China (HTML format is allowed)
     icp = ""
     # license info (HTML format is allowed)
