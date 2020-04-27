@@ -240,7 +240,7 @@ enableEmoji = true
     # date format
     dateFormatToUse = "02-01-2006"
     # Menu Info
-    [languages.it.menu]
+    [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "posts"
         pre = ""
