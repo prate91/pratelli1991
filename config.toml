@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://pratelli1991.it"
 # [en, zh-cn, fr, it, ...] determines default content language
 defaultContentLanguage = "it"
 # language code
@@ -19,7 +19,7 @@ enableEmoji = true
   [languages.it]
     weight = 1
     # website title
-    title = "Nicolò Pratelli"
+    title = "/images/logo.png"
     # language code
     languageCode = "it"
     # language name
@@ -78,7 +78,7 @@ enableEmoji = true
             # Gravatar Email for preferred avatar in home page
             gravatarEmail = ""
             # URL of avatar shown in home page
-            avatarURL = "/images/logo.png"
+            avatarURL = "/images/avatar.png"
             # subtitle shown in home page
             subtitle = "Vi faccio entrare nel mio mondo"
             # whether to use typeit animation for subtitle
@@ -466,7 +466,7 @@ enableEmoji = true
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/logo.png"
+      avatarURL = "/images/avatar.png"
       # subtitle shown in home page
       subtitle = "This is My New Hugo Site"
       # whether to use typeit animation for subtitle
@@ -646,12 +646,12 @@ enableEmoji = true
   [params.publisher]
     name = "xxxx"
     [params.publisher.logo]
-      url = "logo.png"
+      url = "/images/logo.png"
       width = 127
       height = 40
   # Website Log Info just for SEO
   [params.logo]
-    url = "logo.png"
+    url = "/images/logo.png"
     width = 127
     height = 40
   # Website Image Info just for SEO
