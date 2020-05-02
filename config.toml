@@ -19,7 +19,7 @@ enableEmoji = true
   [languages.it]
     weight = 1
     # website title
-    title = "/images/logo.png"
+    title = "Nicolò Pratelli"
     # language code
     languageCode = "it"
     # language name
@@ -78,7 +78,7 @@ enableEmoji = true
             # Gravatar Email for preferred avatar in home page
             gravatarEmail = ""
             # URL of avatar shown in home page
-            avatarURL = "/images/avatar.png"
+            avatarURL = "/images/logo.png"
             # subtitle shown in home page
             subtitle = "Vi faccio entrare nel mio mondo"
             # whether to use typeit animation for subtitle
@@ -284,7 +284,7 @@ enableEmoji = true
               # Gravatar Email for preferred avatar in home page
               gravatarEmail = ""
               # URL of avatar shown in home page
-              avatarURL = "/images/avatar.png"
+              avatarURL = "/images/logo.png"
               # subtitle shown in home page
               subtitle = "Welcome to my world"
               # whether to use typeit animation for subtitle
