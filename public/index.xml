@@ -1,7 +1,14 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My New Hugo Site | My New Hugo Site</title>
-        <link>http://example.org/</link>
-        <description>My New Hugo Site | My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://example.org/" rel="self" type="application/rss+xml" /></channel>
+        <title>Nicolò Pratelli</title>
+        <link>https://pratelli1991.it/</link>
+        <description>Sito personale Nicolò Pratelli</description>
+        <generator>Hugo -- gohugo.io</generator><language>it</language><copyright>Questo sito è posto sotto la licenza Creative Commons Attribuzione - Non commerciale - Non opere derivate 3.0.</copyright><lastBuildDate>Sat, 18 Apr 2020 22:18:43 &#43;0200</lastBuildDate><atom:link href="https://pratelli1991.it/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://pratelli1991.it/first_post/</link>
+    <pubDate>Sat, 18 Apr 2020 22:18:43 &#43;0200</pubDate>
+    <author>Autore</author>
+    <guid>https://pratelli1991.it/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>
