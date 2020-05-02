@@ -22,7 +22,7 @@ jobs:
         hugo-version: '0.69.2' # 0.62.0
 
     - name: Build
-      run: hugo -D --disableFastRender
+      run: hugo -D
 
     - name: Deploy
       uses: SamKirkland/FTP-Deploy-Action@2.0.0
