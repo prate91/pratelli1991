@@ -22,8 +22,6 @@ Il gioco appare subito di una semplicità disarmante: lo scopo è indovinare la 
 
 Naturalmente si può usufruire di alcuni aiuti ogni livello. Vi consiglio di non abusarne all'inizio (come ho fatto io) sono pochi quelli che il creatore ti concederà e sono fondamentali per i livelli più difficili.
 
-{{< figure src="/images/imagzle/imagzle2.jpg" title="Imagzle" >}}
-
 Ma il gioco è super divertente e ti farà imparare tantissime cose, soprattutto per i livelli più difficili. Da qualche mese il venerdì è diventato il mio appuntamento fisso per l'aggiornamento, che non manca mai di arrivare. L'ho eletto a mio gioco preferito per Android.
 
 Io sono arrivato alla fine anche questa settimana, ci vediamo nel gruppo Telegram dei vincitori del gioco!
