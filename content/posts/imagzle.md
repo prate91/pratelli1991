@@ -3,6 +3,10 @@ title: "Imagzle"
 date: 2019-09-03T22:18:43+02:00
 draft: false
 author: "Nicolò Pratelli"
+authorLink: "https://pratelli1991.it"
+description: "Scopri Imagzle, un gioco per smartphone Android e Apple innovativo."
+
+featuredImage: "/images/imagzle/imagzle2.jpg"
 ---
 
 # Imazle: quando la difficoltà è divertente
