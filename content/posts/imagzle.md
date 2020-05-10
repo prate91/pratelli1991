@@ -2,6 +2,7 @@
 title: "Imagzle"
 date: 2019-09-03T22:18:43+02:00
 draft: false
+author: "Nicolò Pratelli"
 ---
 
 # Imazle: quando la difficoltà è divertente
