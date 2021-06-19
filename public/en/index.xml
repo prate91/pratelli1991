@@ -1,14 +1,15 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Nicolò Pratelli</title>
-        <link>https://pratelli1991.it/en/</link>
-        <description>Personal website&#39;s Nicolò Pratelli</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 18 Apr 2020 22:18:43 &#43;0200</lastBuildDate><atom:link href="https://pratelli1991.it/en/" rel="self" type="application/rss+xml" /><item>
-    <title>First_post</title>
-    <link>https://pratelli1991.it/en/first_post/</link>
-    <pubDate>Sat, 18 Apr 2020 22:18:43 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>https://pratelli1991.it/en/first_post/</guid>
-    <description><![CDATA[]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicolò Pratelli</title>
+    <link>https://pratelli1991.it/en/</link>
+    <description>Recent content on Nicolò Pratelli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    
+	<atom:link href="https://pratelli1991.it/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
 </rss>

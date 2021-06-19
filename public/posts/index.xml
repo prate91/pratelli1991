@@ -1,14 +1,27 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Tutti Articoli - Nicolò Pratelli</title>
-        <link>https://pratelli1991.it/posts/</link>
-        <description>Tutti Articoli | Nicolò Pratelli</description>
-        <generator>Hugo -- gohugo.io</generator><language>it</language><copyright>Questo sito è posto sotto la licenza Creative Commons Attribuzione - Non commerciale - Non opere derivate 3.0.</copyright><lastBuildDate>Sat, 18 Apr 2020 22:18:43 &#43;0200</lastBuildDate><atom:link href="https://pratelli1991.it/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>First_post</title>
-    <link>https://pratelli1991.it/first_post/</link>
-    <pubDate>Sat, 18 Apr 2020 22:18:43 &#43;0200</pubDate>
-    <author>Autore</author>
-    <guid>https://pratelli1991.it/first_post/</guid>
-    <description><![CDATA[]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nicolò Pratelli</title>
+    <link>https://pratelli1991.it/posts/</link>
+    <description>Recent content in Posts on Nicolò Pratelli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Questo sito è posto sotto la licenza Creative Commons Attribuzione - Non commerciale - Non opere derivate 3.0.</copyright>
+    <lastBuildDate>Tue, 03 Sep 2019 22:18:43 +0200</lastBuildDate>
+    
+	<atom:link href="https://pratelli1991.it/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Imagzle</title>
+      <link>https://pratelli1991.it/imagzle/</link>
+      <pubDate>Tue, 03 Sep 2019 22:18:43 +0200</pubDate>
+      
+      <guid>https://pratelli1991.it/imagzle/</guid>
+      <description>Imazle: quando la difficoltà è divertente Oggi voglio parlare di un gioco che mi ha coinvolto tantissimo negli ultimi mesi. Lo potete trovare per Android oppure per iPhone. Si chiama Imagzle e il suo creatore è un simpatico (imparerete a scoprirlo) ragazzo italiano (@obsidian.art).
+Il gioco appare subito di una semplicità disarmante: lo scopo è indovinare la parola disegnata da un&amp;rsquo;immagine.
+  Un livello del gioco   «Niente di più semplice!</description>
+    </item>
+    
+  </channel>
 </rss>

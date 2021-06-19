@@ -60,7 +60,7 @@ enableEmoji = true
         identifier = "about"
         pre = ""
         name = "Su di me"
-        url = "/about/"
+        url = "https://pratelli1991.it"
         title = ""
         weight = 4
       [languages.it.params]
@@ -266,7 +266,7 @@ enableEmoji = true
           identifier = "about"
           pre = ""
           name = "About me"
-          url = "/about/"
+          url = "https://pratelli1991.it"
           title = ""
           weight = 4
         [languages.en.params]
