@@ -56,7 +56,7 @@ KOM SPRINTS: Poggio la Croce (2nd Category, 543 m, 11.4 Km at 4.3%, Km 29.7) - D
 
 ## Tappa 4: Montecastelli Pisano > Pomarance - 187.31 Km
 
-{{< figure src="/images/giroPisa/motecastelli-pisano-pomarance-4a-tappa.jpg" title="Tappa 4" >}}
+{{< figure src="/images/giroPisa/montecastelli-pisano-pomarance-4a-tappa.jpg" title="Tappa 4" >}}
 
 | Denivel  | Denivel+ | Denivel- |
 |:--------:|:--------:|:--------:|
