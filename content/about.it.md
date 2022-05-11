@@ -16,7 +16,6 @@ Curriculum  Vitae
 | <a href="https://pratelli.org"><i class="fa-solid fa-globe"></i> pratelli.org</a> 
 | <a href="https://github.com/prate91"><i class="fa-brands fa-github"></i> prate91</a> 
 | <a href="https://twitter.com/Prate91"><i class="fa-brands fa-twitter"></i> prate91</a> 
-
 </div>
 
 
