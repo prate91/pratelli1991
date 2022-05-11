@@ -1,4 +1,4 @@
-baseURL = "https://pratelli1991.it"
+baseURL = "https://pratelli.org"
 # [en, zh-cn, fr, it, ...] determines default content language
 defaultContentLanguage = "it"
 # language code
@@ -266,7 +266,7 @@ enableEmoji = true
           identifier = "about"
           pre = ""
           name = "About me"
-          url = "https://pratelli1991.it"
+          url = "/about/"
           title = ""
           weight = 4
         [languages.en.params]

@@ -3,9 +3,9 @@ title: "About"
 date: 2019-09-03T22:18:43+02:00
 draft: false
 author: "Nicolò Pratelli"
-authorLink: "https://pratelli1991.it"
+authorLink: "https://pratelli.org"
 
-layout: DevResume
+customcss: "/css/kjhealy-screen.css"
 ---
 
 # Nicolò Pratelli
