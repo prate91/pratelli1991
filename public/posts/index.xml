@@ -7,10 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Questo sito è posto sotto la licenza Creative Commons Attribuzione - Non commerciale - Non opere derivate 3.0.</copyright>
-    <lastBuildDate>Tue, 03 Sep 2019 22:18:43 +0200</lastBuildDate>
-    
-	<atom:link href="https://pratelli1991.it/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 03 Sep 2019 22:18:43 +0200</lastBuildDate><atom:link href="https://pratelli1991.it/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Il giro della provincia di Pisa</title>
+      <link>https://pratelli1991.it/pisatour/</link>
+      <pubDate>Tue, 03 Sep 2019 22:18:43 +0200</pubDate>
+      
+      <guid>https://pratelli1991.it/pisatour/</guid>
+      <description>Il giro della provincia di Pisa    Number Type Depart and arrive Length     1 Individual Time Trial Fornacette &amp;gt; Chiesino 43.61 Km   2 Medium Mountain Pontedera &amp;gt; Miemo 165.40 Km   3 Medium Mountain Riparbella &amp;gt; Monte Soldano 145.58 Km   4 Medium Mountain Montecastelli Pisano &amp;gt; Pomarance 187.31 Km   5 Individual Time Trial Pomarance &amp;gt; Ponsacco 69.88 Km   6 High mountain Ponsacco &amp;gt; Monte Serra 239.</description>
+    </item>
     
     <item>
       <title>Imagzle</title>
@@ -20,7 +25,7 @@
       <guid>https://pratelli1991.it/imagzle/</guid>
       <description>Imazle: quando la difficoltà è divertente Oggi voglio parlare di un gioco che mi ha coinvolto tantissimo negli ultimi mesi. Lo potete trovare per Android oppure per iPhone. Si chiama Imagzle e il suo creatore è un simpatico (imparerete a scoprirlo) ragazzo italiano (@obsidian.art).
 Il gioco appare subito di una semplicità disarmante: lo scopo è indovinare la parola disegnata da un&amp;rsquo;immagine.
-  Un livello del gioco   «Niente di più semplice!</description>
+ Un livello del gioco   «Niente di più semplice!</description>
     </item>
     
   </channel>

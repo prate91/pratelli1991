@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://pratelli1991.it/en/categories/</loc>
     <changefreq>weekly</changefreq>
@@ -16,9 +15,7 @@
                 hreflang="en"
                 href="https://pratelli1991.it/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pratelli1991.it/en/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -32,9 +29,7 @@
                 hreflang="en"
                 href="https://pratelli1991.it/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pratelli1991.it/en/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -49,5 +44,4 @@
                 href="https://pratelli1991.it/en/tags/"
                 />
   </url>
-  
 </urlset>
