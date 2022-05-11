@@ -5,7 +5,7 @@ draft: false
 author: "Nicolò Pratelli"
 authorLink: "https://pratelli.org"
 
-customcss: "/css/kjhealy-screen.css"
+customcss: "/css/cv-screen.css"
 ---
 
 # Nicolò Pratelli
