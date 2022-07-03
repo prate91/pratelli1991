@@ -15,6 +15,8 @@ enableGitInfo = true
 # whether to use emoji code
 enableEmoji = true
 
+relativeURLs = true
+
 [languages]
   [languages.it]
     weight = 1
