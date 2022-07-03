@@ -32,6 +32,6 @@ jobs:
         FTP_USERNAME: prate91@pratelli.org
         FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         LOCAL_DIR: ./public/
-        REMOTE_DIR:  /public_html/main_website/
+        REMOTE_DIR:  /public_html/
         ARGS: --delete # will delete files on the server if you've deleted them in git
 
